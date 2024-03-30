@@ -1,0 +1,6 @@
+// Basic Arithmetic
+PENDOWN
+MAKE "yep "50
+FORWARD + :yep "30
+
+
